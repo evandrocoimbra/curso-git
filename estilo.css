@@ -3,3 +3,11 @@ body {
 	color: white;
 }
 
+h1 {
+	font-family: "Arial"
+}
+
+h2 {
+	color: cyan;
+	background-color: purple;
+}
