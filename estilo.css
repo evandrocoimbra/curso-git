@@ -11,3 +11,8 @@ h2 {
 	color: cyan;
 	background-color: purple;
 }
+
+footer {
+	size: 8 px;
+	text-align: center;
+}
